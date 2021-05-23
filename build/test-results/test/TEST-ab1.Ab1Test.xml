@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ab1.Ab1Test" tests="30" skipped="0" failures="0" errors="0" timestamp="2021-05-23T08:06:38" hostname="DESKTOP-132RVFI" time="19.223">
+  <properties/>
+  <testcase name="testHeapCornerCases()" classname="ab1.Ab1Test" time="0.017"/>
+  <testcase name="testSearchValueGraetherThenLastElementValue()" classname="ab1.Ab1Test" time="0.002"/>
+  <testcase name="testToHeapSorted()" classname="ab1.Ab1Test" time="0.059"/>
+  <testcase name="testSearchValueNotInList()" classname="ab1.Ab1Test" time="0.0"/>
+  <testcase name="testMinimumOnEmptyList()" classname="ab1.Ab1Test" time="0.0"/>
+  <testcase name="testSearchValueInList()" classname="ab1.Ab1Test" time="0.003"/>
+  <testcase name="testInsertOnEmptyList()" classname="ab1.Ab1Test" time="0.0"/>
+  <testcase name="testInsertAsSmallestElementInList()" classname="ab1.Ab1Test" time="0.001"/>
+  <testcase name="testMaxHeapOnOneElement()" classname="ab1.Ab1Test" time="0.001"/>
+  <testcase name="testToHeapLarge()" classname="ab1.Ab1Test" time="0.813"/>
+  <testcase name="testToHeapSmall()" classname="ab1.Ab1Test" time="0.012"/>
+  <testcase name="testSearchOnEmptyList()" classname="ab1.Ab1Test" time="0.001"/>
+  <testcase name="testMaxHeapOnMoreElements()" classname="ab1.Ab1Test" time="0.0"/>
+  <testcase name="testMaxHeapOnEmptyArray()" classname="ab1.Ab1Test" time="0.001"/>
+  <testcase name="testListInsert()" classname="ab1.Ab1Test" time="2.918"/>
+  <testcase name="testInsertInMiddle()" classname="ab1.Ab1Test" time="0.001"/>
+  <testcase name="testHeapSort()" classname="ab1.Ab1Test" time="0.002"/>
+  <testcase name="testListSearch()" classname="ab1.Ab1Test" time="2.356"/>
+  <testcase name="testInsertAtTheEnd()" classname="ab1.Ab1Test" time="0.001"/>
+  <testcase name="testHeapOnConstructionMoreElementsWithOneSwap()" classname="ab1.Ab1Test" time="0.0"/>
+  <testcase name="testHeapConstructionOnOneElement()" classname="ab1.Ab1Test" time="0.001"/>
+  <testcase name="testMinimumOnNotEmptyList()" classname="ab1.Ab1Test" time="0.0"/>
+  <testcase name="testHeapConstructionOnEmptyArray()" classname="ab1.Ab1Test" time="0.0"/>
+  <testcase name="testHeapSortLarge()" classname="ab1.Ab1Test" time="4.909"/>
+  <testcase name="testHeapSortSmall()" classname="ab1.Ab1Test" time="0.049"/>
+  <testcase name="testIsHeapLarge()" classname="ab1.Ab1Test" time="0.536"/>
+  <testcase name="testIsHeapSmall()" classname="ab1.Ab1Test" time="0.009"/>
+  <testcase name="testMergeSortLarge()" classname="ab1.Ab1Test" time="5.068"/>
+  <testcase name="testMergeSortSmall()" classname="ab1.Ab1Test" time="0.055"/>
+  <testcase name="testListMinimum()" classname="ab1.Ab1Test" time="2.393"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
