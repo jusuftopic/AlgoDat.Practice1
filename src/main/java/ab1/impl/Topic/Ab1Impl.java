@@ -1,4 +1,4 @@
-package ab1.impl.Topic.Memic.Buljubasic;
+package ab1.impl.Topic;
 
 import ab1.Ab1;
 

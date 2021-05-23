@@ -1,6 +1,6 @@
 package ab1;
 
-import ab1.impl.Topic.Memic.Buljubasic.Ab1Impl;
+import ab1.impl.Topic.Ab1Impl;
 import ab1.Ab1.ListNode;
 import org.junit.jupiter.api.Assertions;
 import org.junit.jupiter.api.Test;
